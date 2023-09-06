@@ -1,5 +1,3 @@
-Certainly! Here's a basic README file for your React project:
-
 # House Quiz Adventure
 
 Welcome to the House Quiz Adventure, a virtual adventure game where you explore a mysterious house filled with surprises and interactive items. Your goal is to uncover the hidden quiz, solve puzzles, and embark on an exciting journey. Are you ready to unravel the secrets of the house? Let's get started!
