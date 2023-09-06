@@ -1,5 +1,5 @@
 import React from 'react'
-import keyboard from '../assets/key.png'
+import key from '../assets/key.png'
 
 export default function Gameinfo( props) {
 
@@ -16,7 +16,7 @@ export default function Gameinfo( props) {
             </div>
             <div className='gameinfo__gradientLine'></div>
             <div className='gameinfo__controls'>
-                <img src={keyboard} alt="keyboard"/>
+                <img src={key} alt="keyboard"/>
             </div>
         </>
     )
